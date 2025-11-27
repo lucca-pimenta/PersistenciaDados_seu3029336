@@ -1,4 +1,0 @@
-com\LuccaPOO\api_produtos\ApiProdutosApplication.class
-com\LuccaPOO\api_produtos\controller\ProdutoController.class
-com\LuccaPOO\api_produtos\model\Produto.class
-com\LuccaPOO\api_produtos\repository\ProdutoRepository.class
